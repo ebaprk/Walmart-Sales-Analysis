@@ -50,3 +50,9 @@ The queries were assembled for SQL exploration and contain dialect-specific synt
 - The dataset is supplied in the repository without a verified original source citation. Its Walmart label does not establish that it is official company data; confirm provenance and usage terms before redistribution.
 
 This repository contains preparation and query work. It does not include a separate validated findings report or dashboard.
+
+## License
+
+Original software and documentation are licensed under the [Apache License 2.0](LICENSE). See [NOTICE](NOTICE) for copyright, attribution, and the scope of this grant. Third-party materials retain their own terms.
+
+The supplied CSV dataset is excluded: its original source/license has not been verified, so the Apache grant does not provide dataset reuse or redistribution permission.

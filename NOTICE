@@ -1,0 +1,10 @@
+Walmart Sales Analysis
+https://github.com/ebaprk/Walmart-Sales-Analysis
+
+Copyright 2026 Abe Park
+
+The Apache License, Version 2.0 in LICENSE applies to original software and documentation contributed by Abe Park, except as identified below. Existing copyright, authorship, attribution, and license notices are retained.
+
+Third-party dependencies, datasets, fonts, images, logos, and other third-party materials retain their own terms. This project's license does not relicense those materials or grant additional rights to them.
+
+The supplied Data/Walmart.csv has no verified original source/license recorded in this repository. It is excluded from the Apache-2.0 grant; this repository grants no dataset redistribution or reuse permission on the original provider's behalf. The dataset's Walmart label does not grant rights to Walmart trademarks.
